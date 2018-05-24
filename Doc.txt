@@ -1,0 +1,13 @@
+npm install ejs express express-handlebars mongoose stripe --save
+npm install bcryptjs passport --save
+
+---------- Strip --------
+Publishable key = pk_test_gxKkHXyG7fDns0c5OYCSJGqK
+Secret key = sk_test_nsJ9BZGUhaVqkcXohe0JOFKQ
+
+https://project-somwang.c9users.io/
+
+npm install express express-handlebars --save
+
+Strip url
+http://www.catonmat.net/blog/stripe-payments-with-node/
