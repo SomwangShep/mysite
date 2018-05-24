@@ -1,3 +1,5 @@
+git: mysit, heroku:dtctect2
+--------------------------
 npm install ejs express express-handlebars mongoose stripe --save
 npm install bcryptjs passport --save
 
@@ -11,3 +13,9 @@ npm install express express-handlebars --save
 
 Strip url
 http://www.catonmat.net/blog/stripe-payments-with-node/
+
+------ java on heroku -----
+https://stackoverflow.com/questions/27277952/trying-to-install-java-on-a-rails-heroku-app
+
+https://code.i-harness.com/en/q/1a67f64 - spaw error
+
