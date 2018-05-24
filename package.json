@@ -1,13 +1,13 @@
 {
-  "name": "vidjot",
+  "name": "Java",
   "version": "1.0.0",
-  "description": "App to create video ideas",
+  "description": "Java Tutorial",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Brad Traversy",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "dependencies": {
     "async": "^2.6.1",
     "bcryptjs": "^2.4.3",
