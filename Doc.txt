@@ -19,3 +19,5 @@ https://stackoverflow.com/questions/27277952/trying-to-install-java-on-a-rails-h
 
 https://code.i-harness.com/en/q/1a67f64 - spaw error
 
+--------------- instal java ------------
+heroku buildpacks:add heroku/java --index 1
